@@ -1,7 +1,7 @@
 # PAM I
-Enzo Vieira Alves
+Enzo Vieira Alves - 2 DS
 
-Matheus Sabater de Azevedo
+Matheus Sabater de Azevedo - 2 DS
 
 # Anotações
 
