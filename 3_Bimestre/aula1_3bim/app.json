@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aula1_3_bim",
-    "slug": "aula1_3_bim",
+    "name": "aula1_3bim",
+    "slug": "aula1_3bim",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
