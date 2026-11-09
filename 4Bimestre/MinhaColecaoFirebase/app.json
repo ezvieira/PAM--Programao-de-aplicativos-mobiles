@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Minha Coleção",
+    "slug": "minha-colecao-firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F6FB"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
